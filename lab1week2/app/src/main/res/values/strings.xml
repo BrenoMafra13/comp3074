@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabExWeek1</string>
+    <string name="myName">Breno Lopes Mafra</string>
+    <string name="studentid">101485572</string>
+    <string name="nextLabel">Next Activity</string>
+    <string name="toast">This is a Toast</string>
+    <string name="www">www</string>
+    <string name="call">Call</string>
+    <string name="map">Map</string>
+    <string name="back">Back</string>
+</resources>
