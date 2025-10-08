@@ -20,7 +20,6 @@ abstract class ItemsDatabase : RoomDatabase() {
                     ItemsDatabase::class.java,
                     "items_database"
                 )
-                    // .fallbackToDestructiveMigration() // descomente só se quiser zerar o db em mudanças de versão
                     .build().also { INSTANCE = it }
             }
     }
