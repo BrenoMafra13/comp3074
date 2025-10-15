@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab6Week7</string>
+    <string name="studentName">Breno Lopes Mafra</string>
+    <string name="studentId">101485572</string>
+    <string name="pressureActivity">PressureActivity</string>
+    <string name="pressureDisplay">Reading Pressure</string>
+</resources>
